@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from modbus_driver import PM2200Reader
+#from modbus_driver import PM2200Reader
 import threading
 import time
 import csv
