@@ -1,1 +1,6 @@
-nul not found
+flask
+flask-cors
+pandas
+pyserial
+werkzeug
+gunicorn
